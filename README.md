@@ -2,6 +2,11 @@
 
 DISCLAIMER :: In case you encouter an error while trying to open the jupytr notebooks on the repository or the ones mentioned in the markdown below, kindly refer to this [nbviewer](https://nbviewer.org/github/himeshps/Tidal_Volume_Submission_230478/tree/main/).
 
+The final model and files for the dataset are listed below : <br>
+Final Model : [Link](https://github.com/himeshps/Tidal_Volume_Submission_230478/blob/main/TidalVolume_Final_Model.ipynb) <br>
+Final Combined Dataset : [Link](https://github.com/himeshps/Tidal_Volume_Submission_230478/blob/main/FinalCombinedDataset.csv) <br>
+Screenshot of the model's prediction : [Link](https://github.com/himeshps/Tidal_Volume_Submission_230478/blob/main/Model%20Working%20Screenshot.png) <br>
+
 Additionally, kindly treat the Augemented_tidal_volume_(female/male)_dataset commits as the final CSV files containing the dataset I had generated for the training of the model. The dataset_male/female CSV commits were generated as well, the only reason to work on them was that I wanted to increase the number of datapoints.
 
 <h1>Starting off with the Dataset</h1>
